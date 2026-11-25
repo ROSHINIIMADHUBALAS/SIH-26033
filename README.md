@@ -1,6 +1,6 @@
 # SMART INDIA HACKATHON WORKSHOP
 
-##  " Date: 25/11/26  
+##  Date: 25/11/26  
 ### Reference Number: 26007010  
 ### Name: Roshinii Madhubala S
 
