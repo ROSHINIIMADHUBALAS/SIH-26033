@@ -1,8 +1,8 @@
 # SMART INDIA HACKATHON WORKSHOP
 
-##  " Date:  
-### Reference Number:  
-### Name: 
+##  " Date: 25/11/26  
+### Reference Number: 26007010  
+### Name: Roshinii Madhubala S
 
 ## Problem Title
 **SIH 26033: Multiple intermediaries reduce farmers' earnings and increase consumer prices.**
